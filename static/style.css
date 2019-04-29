@@ -1,0 +1,26 @@
+
+#top_head{
+    width: auto;
+
+    background-image: linear-gradient(to right, #642B73 , #C6426E);
+    color: #fff;
+    text-align: center;
+     padding-left: 0; padding-right: 0; margin-left: 0; margin-right: 0
+
+}
+#about {
+    font-size: 20px;
+}
+#form{
+    width: 250px;
+    margin:auto;
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+
+#show-btn{
+    padding-right: 230px;
+}
+
+#rmv-padding{
+    padding-left: 0; padding-right: 0; margin-left: 0; margin-right: 0}
